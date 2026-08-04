@@ -29,7 +29,7 @@
     <img src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="CodeChef" width="40" height="40"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/nishanthbhat18" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5khLBj_0BypFMp-LP21tS14rkFVeu0CCF2NiiDoJbFl1BPnes_FP_7U&s=10" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
 </p>
 
